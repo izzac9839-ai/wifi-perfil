@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>PayloadContent</key>
+  <array>
+    <dict>
+      <key>AutoJoin</key><true/>
+      <key>EncryptionType</key><string>WPA</string>
+      <key>HIDDEN_NETWORK</key><false/>
+      <key>Password</key><string>WL470151</string>
+      <key>PayloadDescription</key><string>Configura a rede Wi-Fi Decor Colors Goianesia</string>
+      <key>PayloadDisplayName</key><string>Decor Colors Goianesia Wi-Fi</string>
+      <key>PayloadIdentifier</key><string>br.decorcolors.goianesia.wifi</string>
+      <key>PayloadType</key><string>com.apple.wifi.managed</string>
+      <key>PayloadUUID</key><string>EFBA9F40-CF50-4F76-B5DA-914568635D70</string>
+      <key>PayloadVersion</key><integer>1</integer>
+      <key>SSID_STR</key><string>Decor Colors Goianesia</string>
+    </dict>
+  </array>
+  <key>PayloadDescription</key><string>Perfil Wi-Fi para Decor Colors Goianesia</string>
+  <key>PayloadDisplayName</key><string>Wi-Fi Decor Colors Goianesia</string>
+  <key>PayloadIdentifier</key><string>br.decorcolors.goianesia.profile</string>
+  <key>PayloadOrganization</key><string>Decor Colors Goianesia</string>
+  <key>PayloadRemovalDisallowed</key><false/>
+  <key>PayloadType</key><string>Configuration</string>
+  <key>PayloadUUID</key><string>F9E357A4-7C3D-4F14-9C04-112CC1353E73</string>
+  <key>PayloadVersion</key><integer>1</integer>
+</dict>
+</plist>
